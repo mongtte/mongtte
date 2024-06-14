@@ -21,4 +21,5 @@
         <li>*Web design and Fronend Develpment* with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.</li>
         <li>*Backend Development* with Laravel, Node.JS, GraphQL, Golang, .NET, Flask, Django, AWS, GCP.</li>
         <li>*Blockchain Development* (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, Trading Bot etc)</li>
+        <li>*Game Development* with web3 game, trading game, telegram game bot(like **Hamster Kombat**), Unity game </li>
       </ul>
